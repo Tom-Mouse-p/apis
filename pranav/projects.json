@@ -12,6 +12,12 @@
         "github": "https://github.com/gdscpce/Tic-Tech-Toe"
     },
     {
+        "title": "Quizzo! - The Quiz App",
+        "link": "https://quizzo-ten.vercel.app/",
+        "description": "This is a basic quiz application developed using React. It allows users to take a short quiz.",
+        "github": "https://github.com/Tom-Mouse-p/quizapp"
+    },
+    {
         "title": "Weatheral",
         "link": "https://pranavsedu.github.io/Weather-Webportal/",
         "description": "Weather WebApp",
