@@ -1,0 +1,80 @@
+[
+    {
+        "title": "CurrX",
+        "link": "https://pranavsedu.github.io/Currency-exchange",
+        "description": "Live Currency Exchange Rates",
+        "github": "https://github.com/Tom-Mouse-p/pranav-projects"
+    },
+    {
+        "title": "Tic-Tech-Toe",
+        "link": "https://tictechtoe.pythonanywhere.com/",
+        "description": "A Fun game made for GDSC_PCE",
+        "github": "https://github.com/gdscpce/Tic-Tech-Toe"
+    },
+    {
+        "title": "Weatheral",
+        "link": "https://pranavsedu.github.io/Weather-Webportal/",
+        "description": "Weather WebApp",
+        "github": "https://github.com/Tom-Mouse-p/csi-react-weatherapp"
+    },
+    {
+        "title": "Weatheral v2",
+        "link": "https://weatheral.vercel.app/",
+        "description": "Weather WebApp v2",
+        "github": "https://github.com/Tom-Mouse-p/csi-react-weatherapp"
+    },
+    {
+        "title": "Chat Web app",
+        "link": "https://chatxl.vercel.app/",
+        "description": "Live Chat web-app",
+        "github": "https://github.com/Tom-Mouse-p/chatapp-firebase"
+    },
+    {
+        "title": "Dictionary app",
+        "link": "https://pranav-dictionary.herokuapp.com/",
+        "description": "A Dictionary web app",
+        "github": "https://github.com/Tom-Mouse-p/Dictionary"
+    },
+    {
+        "title": "Lilly - The Voice Assistant",
+        "link": "https://lilly-voice.vercel.app/",
+        "description": "A Web Based Simple Voice Assistant",
+        "github": "https://github.com/Tom-Mouse-p/lilly"
+    },
+    {
+        "title": "Trinity - URL Shortner (UI)",
+        "link": "https://trinity-url.vercel.app/",
+        "description": "A URL Shortner [work in progress]",
+        "github": "https://github.com/Tom-Mouse-p/trinity-url"
+    },
+    {
+        "title": "SwiftSkrible",
+        "link": "https://swiftskrible.vercel.app/",
+        "description": "A Note taking app (Shared Notes, everyone with the web url can see same)",
+        "github": "https://github.com/Tom-Mouse-p/swiftskrible"
+    },
+    {
+        "title": "Animal image classifier",
+        "link": "#",
+        "description": "Detects the animal in the input image",
+        "github": "https://github.com/Tom-Mouse-p/animal-image-classifier"
+    },
+    {
+        "title": "Google DevFest App (UI Design)",
+        "link": "https://play.google.com/store/apps/details?id=com.tweakstron.devfest_portfolio_app&pcampaignid=web_share",
+        "description": "Designed the UI/UX for Google DevFest app",
+        "github": "https://github.com/devfest-opensource/devfest-portfolio-app"
+    },
+    {
+        "title": "Battle Fire (Web Game)",
+        "link": "https://tom-mouse-p.github.io/battlefire_game/",
+        "description": "A Simple Web Game Prototype",
+        "github": "https://github.com/Tom-Mouse-p/battlefire_game/"
+    },
+    {
+        "title": "Image Audio Reader",
+        "link": "https://github.com/Tom-Mouse-p/AudioReader",
+        "description": "Read the text in front of the camera",
+        "github": "https://tom-mouse-p.github.io/AudioReader/"
+    }
+]
