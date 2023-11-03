@@ -6,16 +6,34 @@
         "github": "https://github.com/Tom-Mouse-p/pranav-projects"
     },
     {
-        "title": "Tic-Tech-Toe",
-        "link": "https://tictechtoe.pythonanywhere.com/",
-        "description": "A Fun game made for GDSC_PCE",
-        "github": "https://github.com/gdscpce/Tic-Tech-Toe"
+        "title": "Lilly - The Voice Assistant",
+        "link": "https://lilly-voice.vercel.app/",
+        "description": "A Web Based Simple Voice Assistant",
+        "github": "https://github.com/Tom-Mouse-p/lilly"
     },
     {
         "title": "Quizzo! - The Quiz App",
         "link": "https://quizzo-ten.vercel.app/",
         "description": "This is a basic quiz application developed using React. It allows users to take a short quiz.",
         "github": "https://github.com/Tom-Mouse-p/quizapp"
+    },
+    {
+        "title": "Chat Web app",
+        "link": "https://chatxl.vercel.app/",
+        "description": "Live Chat web-app",
+        "github": "https://github.com/Tom-Mouse-p/chatapp-firebase"
+    },
+    {
+        "title": "SwiftSkrible",
+        "link": "https://swiftskrible.vercel.app/",
+        "description": "A Note taking app (Shared Notes, everyone with the web url can see same)",
+        "github": "https://github.com/Tom-Mouse-p/swiftskrible"
+    },
+    {
+        "title": "Tic-Tech-Toe",
+        "link": "https://tictechtoe.pythonanywhere.com/",
+        "description": "A Fun game made for GDSC_PCE",
+        "github": "https://github.com/gdscpce/Tic-Tech-Toe"
     },
     {
         "title": "Weatheral",
@@ -30,34 +48,16 @@
         "github": "https://github.com/Tom-Mouse-p/csi-react-weatherapp"
     },
     {
-        "title": "Chat Web app",
-        "link": "https://chatxl.vercel.app/",
-        "description": "Live Chat web-app",
-        "github": "https://github.com/Tom-Mouse-p/chatapp-firebase"
-    },
-    {
         "title": "Dictionary app",
         "link": "https://pranav-dictionary.herokuapp.com/",
         "description": "A Dictionary web app",
         "github": "https://github.com/Tom-Mouse-p/Dictionary"
     },
     {
-        "title": "Lilly - The Voice Assistant",
-        "link": "https://lilly-voice.vercel.app/",
-        "description": "A Web Based Simple Voice Assistant",
-        "github": "https://github.com/Tom-Mouse-p/lilly"
-    },
-    {
         "title": "Trinity - URL Shortner (UI)",
         "link": "https://trinity-url.vercel.app/",
         "description": "A URL Shortner [work in progress]",
         "github": "https://github.com/Tom-Mouse-p/trinity-url"
-    },
-    {
-        "title": "SwiftSkrible",
-        "link": "https://swiftskrible.vercel.app/",
-        "description": "A Note taking app (Shared Notes, everyone with the web url can see same)",
-        "github": "https://github.com/Tom-Mouse-p/swiftskrible"
     },
     {
         "title": "Animal image classifier",
